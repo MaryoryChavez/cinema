@@ -43,6 +43,11 @@ body{
     background-size: contain;
 }
 
+.icono{
+    width: 80px;
+    margin: 250px 0px 0px 300px;
+}
+
 .big-hero{
     float: right;
     background: #4d4d4d;
